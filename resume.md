@@ -1,53 +1,25 @@
-# Your Name
+# Logan W.
 
-your.name@example.com
+weidner1@uw.edu
 
-http://www.example.com
-
-http://www.linkedin.com/in/yourname
+https://littlewolverine.github.io
 
 # Summary
 
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
+Geography: Data Science undergraduate at University of Washington.
 
 # Work Experience (only last 10 years)
 
-## University Name 1 (City, State)
+## University of Washington
 
 * [University 1][] description, particularly if not well-known.*
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+Undergraduate Student (2019-current)
 
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 2 (City, State)
-*[University 2][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 3 (City, State)
-* [University 3][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment
-- Accomplishment
-- Accomplishment
-- Accomplishment
+- Utalize numerous programming languages (R, Python, JavaScript, HTML/CSS) to create **interactive GIS visualizations**
+- Exhibited leadership in multiple group coding projects using git
+- Studied a diverse set of both technical and societal/ethical topics in Geography: Data science program
+- Graduated from program with 3.7 GPA
 
 
 [University 1]: http://www.univ1.edu
